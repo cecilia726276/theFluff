@@ -1,0 +1,29 @@
+.menu {
+  margin-left: 15%;
+  color: #b3b3cc;
+  text-decoration: none;
+  display: inline;
+}
+
+.Header-logo {
+  height: 64px;
+  float: left;
+}
+
+
+.Footer {
+  bottom: 0;
+  background-color: #000d1a;
+  height: 15px;
+  padding: 2%;
+}
+
+.Header-title {
+  font-size: 1.5em;
+  display: inline;
+}
+.Right-part{
+  display: inline;
+  margin-left: 60%;
+  font-size: 15px;
+}

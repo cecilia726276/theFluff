@@ -1,0 +1,53 @@
+/*
+* {
+	margin: 0;
+	padding: 0;
+}
+*/
+
+.App {
+  text-align: center;
+}
+
+.App-menu {
+  margin-left: 15%;
+  color: white;
+  text-decoration: none;
+}
+
+.App-logo {
+  height: 60px;
+  float: left;
+}
+
+.App-header {
+  text-align: left;
+  background-color: #333399;
+  height: 30px;
+  padding: 2%;
+  color: white;
+  
+  position :fixed; 
+  width : 100%;
+}
+
+.App-footer {
+  margin-top: 37%;
+  background-color: #333399;
+  height: 100%;
+  padding: 3%;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-signUpElements {
+  text-align: right;
+  margin-right: 13%;
+}

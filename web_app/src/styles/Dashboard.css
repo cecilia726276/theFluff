@@ -1,0 +1,22 @@
+.container{
+  padding-top: 75px;
+  text-decoration: none;
+  height : auto;
+}
+
+.container .block{
+  border-style: solid solid none solid;
+  border-width: 1px;
+  width: 60%;
+  height: 500px;
+  margin-left: 13%;
+}
+
+.trigger{
+  font-size: 18px;
+  margin-left: auto;
+  line-height: 64px;
+  padding: 0 16px;
+  cursor: pointer;
+  transition: color .3s;
+}

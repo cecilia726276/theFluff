@@ -1,0 +1,41 @@
+.Block1{
+  background: grey;
+  padding-top: 300px;
+  height : 300px;
+}
+
+
+.Headline{
+  font-size: 3em;
+}
+
+.line2nd{
+   font-size: 1.5em;
+}
+.buttonblock{
+  padding-top: 20px;
+}
+
+.Block2{
+  width : 50%;
+  height : auto;
+  margin-left : 25%;
+}
+
+.line3rd{
+  text-align: center;
+  font-size: 2em;
+}
+
+.line4th{
+  text-align: left;
+  font-size: 1.5em;
+}
+
+.Toolkit{
+  text-align: left;
+}
+
+.ToolkitContent{
+  font-size: 1.5em;
+}

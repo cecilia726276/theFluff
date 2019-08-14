@@ -1,0 +1,7 @@
+.scrollHidden::-webkit-scrollbar {
+    display: none;
+}
+
+.scrollHidden{
+    -ms-overflow-style: none;
+}
